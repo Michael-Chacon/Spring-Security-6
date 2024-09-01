@@ -32,3 +32,13 @@ Si la autenticación fue exitosa, se guarda el usuario que esta autenticado, Hay
 
 - principal: guarda la información general del usuario, usuario password, etc..
 - authorities: acá se guardan los permisos
+
+
+
+#### Apuntes
+
+https://fierce-cirrus-de1.notion.site/Spring-Security-6-9ba16bdca65543b2a976d3cbc6d02c59?pvs=4
+
+#### Fuente de los apuntes
+
+https://www.youtube.com/watch?v=IPWBQDMIYkc&t=4960s
