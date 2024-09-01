@@ -2,7 +2,7 @@
 
 
 
-
+![](https://github.com/Michael-Chacon/Spring-Security-6/blob/main/docs/Arquitectura%20Spring%20Security.png)
 
 Cuando hacemos una solicitud http al back, dicha solicitud debe pasar por una cadena de filtros
 
